@@ -1,20 +1,21 @@
 {
   "name": "@averoa/helpers",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "DEPRECATED: re-exports app/Helpers for AveroaJS 1.x. Use the #helpers subpath import in AveroaJS 2.0.",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/budiherma1/AveroaHelpers.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Budi Hermawan",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/budiherma1/AveroaHelpers/issues"
   },
-  "homepage": "https://github.com/budiherma1/AveroaHelpers#readme"
+  "homepage": "https://github.com/budiherma1/AveroaHelpers#readme",
+  "keywords": [
+    "averoajs",
+    "deprecated"
+  ]
 }
